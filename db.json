@@ -1,0 +1,62 @@
+{
+  "countries": [
+    {
+      "country": "India",
+      "id": 1
+    },
+    {
+      "country": "Butan",
+      "id": 2
+    },
+    {
+      "country": "Nepal",
+      "id": 3
+    },
+    {
+      "country": "US",
+      "id": 4
+    },
+    {
+      "country": "UK",
+      "id": 5
+    },
+    {
+      "country": "China",
+      "id": 6
+    },
+    {
+      "country": "Japan",
+      "id": 7
+    },
+    {
+      "country": "xyz",
+      "id": 8
+    }
+  ],
+  "cities": [
+    {
+      "country": "US",
+      "city": "Chicago",
+      "population": "20000000",
+      "id": 2
+    },
+    {
+      "country": "India",
+      "city": "Pune",
+      "population": "3000000",
+      "id": 3
+    },
+    {
+      "country": "India",
+      "city": "Mumbai",
+      "population": "780000000000000",
+      "id": 5
+    },
+    {
+      "country": "xyz",
+      "city": "abc",
+      "population": "888888888",
+      "id": 6
+    }
+  ]
+}
